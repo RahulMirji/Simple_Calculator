@@ -13,6 +13,15 @@
                 {% csrf_token %}
                 <label>Value 1</label>
                 <input type="text" name="num1" class="form-control"/>
+                <label>Operation</label>
+                <select name="opr" class="form-control">
+                    <option value="+">+</option>
+                    <option value="-">-</option>
+                    <option value="*">*</option>
+                    <option value="/">/</option>
+                </select>
+                <label>Value 2</label>
+                <input type="text" name="num2" class="form-control"/>
             </form>
         </div>
     </div>
