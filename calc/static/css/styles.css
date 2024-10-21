@@ -88,3 +88,7 @@ input[type="text"][value] {
     width: 100%;
     max-width: 500px;
 }
+
+.footer ,p {
+    margin-top: 80px;
+}
