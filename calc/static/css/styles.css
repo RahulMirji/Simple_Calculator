@@ -1,17 +1,18 @@
 /* General body styles */
 body {
-    background-color: #c8c8d0;
+    background-color: #ffffff;
     color: #333;
     text-align: center;
-    padding: 20px;
+    padding: 0;
 }
 
 /* Style for the calculator heading */
 h1 {
     color: #2c3e50;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
     font-weight: 80px;
-    font-size: 40px;
+    font-size: 50px;
+    text-shadow: 1px 1px 5px #332f2f;
 }
 
 /* Style for the form elements */
@@ -90,5 +91,5 @@ input[type="text"][value] {
 }
 
 .footer ,p {
-    margin-top: 80px;
+    margin-top: 50px;
 }
