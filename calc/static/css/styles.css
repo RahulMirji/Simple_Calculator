@@ -88,7 +88,10 @@ input[type="text"][value] {
     width: 100%;
     max-width: 500px;
 }
+.even{
+     margin-top: 40px;
+}
 
 .footer ,p {
-    margin-top: 50px;
+    margin-top: 100px;
 }
