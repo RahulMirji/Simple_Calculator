@@ -6,5 +6,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('calculator/', views.calculator),
     path('', views.calculator, name='home'),
-    path('evenodd/', views.evenodd),
+    path('evenodd/', views.evenodd, name='evenodd'),
 ]
