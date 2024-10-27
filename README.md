@@ -16,6 +16,6 @@
 - HTML
 - CSS
 
-  Designed and Developed By Rahul Mirji..
-  contact me at devprahulmirji@gmail.com for quaries...
-  Thank You...!
+Designed and Developed By Rahul Mirji..
+contact me at devprahulmirji@gmail.com for quaries...
+Thank You...!
